@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project creates a music player that plays music from the contained mp3 file from the internet.
 
 A few resources to get you started if this is your first Flutter project:
 
